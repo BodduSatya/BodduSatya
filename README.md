@@ -67,7 +67,10 @@ Expanding into AI and Generative AI — focusing on RAG (Retrieval-Augmented Gen
 
 | Project | Description | Stack |
 |---|---|---|
+| [Dynamic_form_builder](https://github.com/BodduSatya/Dynamic_form_builder) | Enterprise drag-and-drop form builder — 30+ field types, conditional logic, versioning, full audit trail | Angular 18, Spring Boot 3, Oracle |
 | [springboot-microservices](https://github.com/BodduSatya/springboot-microservices) | Sample microservices architecture with Spring Boot | Java, Spring Boot |
+| [TinyUrl-generator-springboot](https://github.com/BodduSatya/TinyUrl-generator-springboot) | URL shortener service built with Spring Boot | Java, Spring Boot |
+| [Spring-Boot](https://github.com/BodduSatya/Spring-Boot) | Spring Boot concepts, patterns & reference implementations | Java, Spring Boot |
 | [SpringBoot-FileUpload](https://github.com/BodduSatya/SpringBoot-FileUpload) | File upload/download service built with Spring Boot | Java, Spring Boot |
 | [ipl-dashboard](https://github.com/BodduSatya/ipl-dashboard) | IPL cricket stats dashboard with live-style data views | React, Spring Boot |
 | [1Z0-819](https://github.com/BodduSatya/1Z0-819) | Notes & practice for the Java SE 11 Developer certification | Java |
